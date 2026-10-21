@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-v5.0.0-4169E1?style=for-the-badge&logo=semver&logoColor=white">
+  <img src="https://img.shields.io/badge/Version-v3.0.0-4169E1?style=for-the-badge&logo=semver&logoColor=white">
   <img src="https://img.shields.io/badge/License-MIT-2ECC71?style=for-the-badge&logo=opensourceinitiative&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-20+-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Status-Active-FFD700?style=for-the-badge&logo=statuspage&logoColor=black">
