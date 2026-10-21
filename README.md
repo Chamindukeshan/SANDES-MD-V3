@@ -32,7 +32,7 @@
   </a>
 </div>
 <div align="center">
-  <p><b>Pair and Get The Session ID 🔮</b></p>
+  <p><b>Pair and Get your Session ID 🔮</b></p>
   <a href="https://sandes-md.zone.id" target="_blank">
     <img src="https://img.shields.io/badge/Get%20Session-2ECC71?style=for-the-badge&logo=whatsapp&logoColor=white" height="55">
   </a>
